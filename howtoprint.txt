@@ -1,0 +1,7 @@
+# how to print on HP MFP M477fdw
+# 1) use the *.rot.pdf
+# 2) put in envelopes as shown in the tray2 picture (rotated 90deg ccw)
+# 3) Printer Properties: MediaType=Envelope, MediaSize=Custom, PaperFeed=Tray2
+# 4) No "Page Scaling", "Choose Paper source by PDF page size", "Use custom..",
+#    Orientation=Portrait
+# 5) Print.
